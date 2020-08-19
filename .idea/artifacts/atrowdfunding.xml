@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="atrowdfunding">
+    <output-path>$PROJECT_DIR$/out/artifacts/atrowdfunding</output-path>
+    <root id="root">
+      <element id="archive" name="atrowdfunding.jar">
+        <element id="module-output" name="atrowdfunding" />
+      </element>
+    </root>
+  </artifact>
+</component>
